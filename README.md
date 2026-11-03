@@ -20,4 +20,4 @@ Packages are versioned by GitVersion in CI. The `Eii.*` dependencies require acc
 
 ## CI/CD
 
-The `master` branch is protected and requires pull requests to merge. Pull requests must pass the build check. Merges to `master` publish the NuGet package.
+The `master` branch is protected and requires pull requests to merge. Pull requests must pass the build check. Merges to `master` publish the NuGet package. 
